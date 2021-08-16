@@ -1,0 +1,59 @@
+angry#feeling or showing strong annoyance, displeasure#furious#calm
+automatic#working by itself with little or no direct human control#preprogrammed#manual
+awake#wake from sleep#sleepless#asleep
+beautiful#pleasing the senses or mind aesthetically#good-looking#ugly
+bitter#having a sharp, pungent taste or smell#unsweetened#sweet
+bright#giving out or reflecting much light#shining#dark
+certain#able to be firmly relied on#sure#uncertain
+cheap#low in price#low-Cost#Expensive
+chief#a leader or ruler of a people or clan#head#subordinate
+clean#free from dirt, marks, or stains#clear#dirty
+cold#of or at a low or relatively low temperature#cool#hot
+complete#having all the necessary or appropriate parts#absolute#incomplete
+complex#consisting of many different and connected parts#complicated#simple
+cruel#willfully causing pain or suffering to others#brutal#merciful
+dark#with little or no light#unlighted#bright
+dead#No longer alive#expired#alive
+deep#extending far down from the top or surface#profound#shallow
+different#not the same as another or each other#dissimilar#similar
+false#not according with truth or fact#incorrect#true
+feeble#lacking physical strength#weak#strong
+flat#having a level surface#level#bumpy
+foolish#lacking good sense or judgement#unwise#wise
+frequent#occurring or done many times at short intervals#recurrent#infrequent
+happy#feeling or showing pleasure or contentment#joyful#sad
+healthy#in a good physical or mental condition#fit#unhealthy
+hollow#having a hole or empty space inside#empty#full
+loud#producing or capable of producing much noise#noisy#quiet
+married#united in marriage#wed#single
+military#relating to or characteristic of soldiers or armed forces#Armed forces#civilian
+narrow#of small width in relation to length#small#wide
+necessary#needed to be done#required#unnecessary
+opposite#situated on the other or further side#facing#conflicting
+possible#able to be done or achieved#achievable#impossible
+probable#likely to happen or be the case#predictable#improbable
+quick#moving fast or doing something in a short time#Fast#slow
+responsible#having an obligation to do something#in charge of#guiltless
+rough#having an uneven or irregular surface#bumpy#smooth
+secret#not known or seen or not meant to be known or seen#confidential#known
+separate#forming or viewed as a unit apart or by itself#discrete#connected
+serious#demanding or characterized by careful consideration#important#unimportant
+sticky#tending or designed to stick to things on contact#adhesive#dry
+stiff#not easily bent or changed in shape#rigid#flexible
+sudden#occurring or done quickly and unexpectedly or without warning#unexpected#gradual
+thick#the most active or crowded part of something#wide#thin
+tight#fixed, fastened, or closed firmly#compact#loose
+violent#involving physical force intended to hurt#brutal#gentle
+wrong#not correct or true#incorrect#right
+provide#make available for use#supply#refuse
+native#a person born in a specified place#inhabitant#foreigner
+passive#accepting or allowing what happens #submissive#assertive
+watch#look at or observe attentively over a period of time#observe#ignore 
+include#contained as part of a whole being considered#contain#exclude
+increase#become or make greater in size#grow#decrease
+approximately#used to show that something is almost#roughly#precisely
+current#belonging to the present time#present#past
+several#more than two but not many#some#many
+initial#existing or occurring at the beginning#beginning#final
+formal#done in accordance with convention or etiquette#conventional#informal
+vertical#at right angles to a horizontal plane#upright#horizontal
